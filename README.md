@@ -1,5 +1,5 @@
 
-### Rate Limiting Practice Project
+# Rate Limiting Practice Project
 
 This project demonstrates rate-limiting concepts by implementing a backend server with rate-limited endpoints and an attack script to test the rate-limiting mechanism.
 
